@@ -1,6 +1,6 @@
 # Instagram Story Downloader by Micha Birklbauer
 
-A python script to download instagram stories via the website [storiesig.com](https://storiesig.com).
+A python script to download Instagram stories via the website [storiesig.com](https://storiesig.com).
 
 ## Usage
 
@@ -13,7 +13,7 @@ A python script to download instagram stories via the website [storiesig.com](ht
 
 ## Credits
 
-Even though the stories are hosted by instagram directly, I scrap the website [storiesig.com](https://storiesig.com) to retrieve their locations!
+Even though the stories are hosted by Instagram directly, I scrap the website [storiesig.com](https://storiesig.com) to retrieve their locations!
 
 ## License
 
