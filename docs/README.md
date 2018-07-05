@@ -2,6 +2,8 @@
 
 A python script to download Instagram stories via the website [storiesig.com](https://storiesig.com).
 
+![Screenshot](https://raw.githubusercontent.com/t0xic-m/instagram_story_downloader/master/docs/storyDownloader.jpg)
+
 ## Usage
 
 - Without arguments: Asks for your input for a username!
