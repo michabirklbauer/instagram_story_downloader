@@ -23,4 +23,4 @@ This project was incorporated into [InstaPython - A small python package to acce
 
 - Website: [Web](https://t0xic-m.github.io/web)
 - Website: [GitHub](https://t0xic-m.github.io)
-- Mail: micha.birklbauer@gmail.com
+- Contact: [Mail](mailto:micha.birklbauer@gmail.com)
