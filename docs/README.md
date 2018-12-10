@@ -2,6 +2,11 @@
 
 A python script to download Instagram stories via the website [storiesig.com](https://storiesig.com).
 
+## WARNING
+**\[10.12.2018\] Since Instagram deprecated their public API this repository will not be maintained anymore. Programs/Scripts or parts of them will not work properly anymore! USE AT OWN RISK!**
+
+## Screenshot
+
 ![Screenshot](https://raw.githubusercontent.com/t0xic-m/instagram_story_downloader/master/docs/storyDownloader.jpg)
 
 ## Usage
