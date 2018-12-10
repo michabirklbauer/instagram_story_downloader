@@ -2,6 +2,9 @@
 
 A python script to download instagram stories via the website [storiesig.com](https://storiesig.com).
 
+## WARNING
+**\[10.12.2018\] Since Instagram deprecated their public API this repository will not be maintained anymore. Programs/Scripts or parts of them will not work properly anymore! USE AT OWN RISK!**
+
 ## Usage
 
 - Without arguments: Asks for your input for a username!
