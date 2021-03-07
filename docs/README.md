@@ -7,7 +7,7 @@ A python script to download Instagram stories via the website [storiesig.com](ht
 
 ## Screenshot
 
-![Screenshot](https://raw.githubusercontent.com/t0xic-m/instagram_story_downloader/master/docs/storyDownloader.jpg)
+![Screenshot](https://raw.githubusercontent.com/michabirklbauer/instagram_story_downloader/master/docs/storyDownloader.jpg)
 
 ## Usage
 
@@ -24,18 +24,17 @@ Even though the stories are hosted by Instagram directly, I scrap the website [s
 
 ## The Future of this Project
 
-This project was incorporated into [InstaPython - A small python package to access and deal with Instagram data!](https://github.com/t0xic-m/instapython) and will be updated and further developed there!
+This project was incorporated into [InstaPython - A small python package to access and deal with Instagram data!](https://github.com/michabirklbauer/instapython) and will be updated and further developed there!
 
 ## License
 
-[MIT License](https://github.com/t0xic-m/instagram_story_downloader/blob/master/LICENSE.md)
+[MIT License](https://github.com/michabirklbauer/instagram_story_downloader/blob/master/LICENSE.md)
 
 ## Download
-- ZIP: [DOWNLOAD](https://github.com/t0xic-m/instagram_story_downloader/archive/master.zip)
-- TAR.GZ: [DOWNLOAD](https://github.com/t0xic-m/instagram_story_downloader/archive/master.tar.gz)
+- ZIP: [DOWNLOAD](https://github.com/michabirklbauer/instagram_story_downloader/archive/master.zip)
+- TAR.GZ: [DOWNLOAD](https://github.com/michabirklbauer/instagram_story_downloader/archive/master.tar.gz)
 
 ## Contact
 
-- Website: [Web](https://t0xic-m.github.io/web)
-- Website: [GitHub](https://t0xic-m.github.io)
-- Contact: [Mail](mailto:micha.birklbauer@gmail.com)
+- Website: [michabirklbauer.github.io](https://michabirklbauer.github.io/)
+- Contact: [micha.birklbauer@gmail.com](mailto:micha.birklbauer@gmail.com)
